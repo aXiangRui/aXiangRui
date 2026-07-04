@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###你好，世界/Hello World
+### 你好，世界/Hello World
 我是aXiangRui/一只相睿，计科本科生就读
 ## 🎯 当前状态
 - 正在学习：CPP网络通信，CPP小游戏实操
